@@ -1,1 +1,1 @@
-# estatistica
+# Estatística para Informática
